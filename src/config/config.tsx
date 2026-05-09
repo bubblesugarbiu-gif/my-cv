@@ -6,7 +6,7 @@ export const Config = {
     address: "广东广州",
     age: "18岁",
     job: "Web3 TA Intern 申请者",
-    status: "在校/待业"
+    status: "待业"
   },
 
   skills: [
@@ -14,8 +14,8 @@ export const Config = {
     { name: "沟通协调能力" },
     { name: "认真负责" },
     { name: "快速学习" },
-    { name: "Office熟练" },
-    { name: "Web3兴趣" },
+    { name: "Office 熟练" },
+    { name: "Web3 兴趣" },
     { name: "团队协作" },
   ],
 
@@ -24,9 +24,9 @@ export const Config = {
   ],
 
   skillIntroduction: [
-    "对 Web3 / 区块链行业有浓厚兴趣",
-    "愿意从招聘助理工作开始，快速学习行业知识",
-    "沟通意愿强，执行力高，认真细致",
+    "对 Web3 和区块链行业充满热情，希望从招聘助理岗位进入行业",
+    "学习意愿强，愿意从基础工作做起并快速成长",
+    "沟通能力较好，执行力高，认真细致"
   ],
 
   workExperience: [
@@ -36,9 +36,9 @@ export const Config = {
       startDate: "2025.01",
       endDate: "至今",
       description: [
-        "主动学习区块链、DeFi、NFT 等基础知识",
-        "关注 Web3 公司招聘需求和行业动态",
-        "独立搭建个人在线简历网站"
+        "主动学习区块链、DeFi 等 Web3 基础知识",
+        "关注行业招聘动态和人才需求",
+        "独立尝试搭建个人在线简历网站"
       ]
     }
   ],
@@ -50,9 +50,9 @@ export const Config = {
       projectEndTime: "至今",
       projectDescription: "使用 Next.js + Tailwind CSS 搭建的在线简历项目",
       projectResponsibility: [
-        "从零配置并成功运行项目",
-        "自定义个人信息展示模块",
-        "用于投递 Moledao TA Intern 等职位"
+        "从零学习并成功运行项目",
+        "配置个人信息并准备用于实习投递",
+        "了解现代前端部署流程"
       ]
     }
   ],
@@ -61,8 +61,8 @@ export const Config = {
     {
       school: "你的学校名称",
       degree: "本科",
-      startDate: "202X.09",
-      endDate: "202X.06"
+      startDate: "20XX.09",
+      endDate: "20XX.06"
     }
   ]
 };
