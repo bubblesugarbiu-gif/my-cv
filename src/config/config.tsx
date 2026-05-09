@@ -9,6 +9,9 @@ export const Config = {
     status: "待业"
   },
 
+  // 明确删除头像
+  avatar: "",
+
   skills: [
     { name: "学习能力强" },
     { name: "沟通协调" },
