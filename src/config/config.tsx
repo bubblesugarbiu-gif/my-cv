@@ -1,6 +1,6 @@
 // 把下面全部内容复制，替换掉原来的代码
 
-export const config = {
+export const Config = {
   personalInfo: {
     name: "你的姓名",           // ← 改成你的名字
     title: "Web3 人才招聘实习生申请者",
