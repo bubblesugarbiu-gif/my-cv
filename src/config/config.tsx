@@ -9,6 +9,9 @@ export const Config = {
     status: "待业"
   },
 
+  // 删除头像（留空即可）
+  // avatar: "",
+
   skills: [
     { name: "学习能力强" },
     { name: "沟通协调" },
@@ -40,7 +43,7 @@ export const Config = {
       startDate: "2013.07",
       endDate: "2017.06",
       description: [
-        "在三甲医院从事医务相关工作，积累了扎实的服务意识和细致的工作习惯",
+        "从事医务相关工作，积累了扎实的服务意识和细致的工作习惯",
         "培养了良好的沟通能力和团队协作精神"
       ]
     },
@@ -48,11 +51,22 @@ export const Config = {
       company: "教育培训机构",
       position: "课程顾问",
       startDate: "2017.07",
-      endDate: "至今",
+      endDate: "2020.06",
       description: [
         "负责课程咨询、销售及学员跟进工作",
         "业绩突出，多次获得机构优秀顾问表彰",
-        "积累了丰富的沟通谈判经验和客户服务能力"
+        "积累了丰富的沟通谈判和客户服务经验"
+      ]
+    },
+    {
+      company: "文化公司",
+      position: "文章编辑 & 设计师",
+      startDate: "2020.07",
+      endDate: "至今",
+      description: [
+        "负责文章撰写、编辑与内容优化",
+        "擅长海报设计、文案创作及视频剪辑",
+        "熟练使用各类 AI 工具提升工作效率"
       ]
     },
     {
@@ -61,9 +75,9 @@ export const Config = {
       startDate: "2025.01",
       endDate: "至今",
       description: [
-        "系统学习区块链基础知识、DeFi、NFT 等 Web3 生态",
-        "持续关注 Web3 与 Fintech 公司招聘需求和行业动态",
-        "独立搭建并部署个人在线简历网站（Next.js + Vercel）"
+        "系统学习区块链、DeFi、NFT 等 Web3 知识",
+        "持续关注 Web3 与 Fintech 招聘动态",
+        "独立搭建并部署个人在线简历网站"
       ]
     }
   ],
@@ -76,8 +90,7 @@ export const Config = {
       projectDescription: "使用 Next.js + Tailwind CSS 搭建的响应式在线简历",
       projectResponsibility: [
         "从零学习并成功部署前端项目",
-        "配置个人信息模块并完成 Vercel 部署",
-        "了解现代前端开发与部署完整流程"
+        "了解现代前端开发与 Vercel 部署流程"
       ]
     }
   ],
