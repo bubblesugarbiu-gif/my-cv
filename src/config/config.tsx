@@ -1,10 +1,8 @@
-// 把下面全部内容复制，替换掉原来的代码
-
 export const Config = {
   personalInfo: {
-    name: "你的姓名",           // ← 改成你的名字
+    name: "你的姓名",
     title: "Web3 人才招聘实习生申请者",
-    avatar: "/avatar.jpg",       // 照片后面再说
+    avatar: "/avatar.jpg",
     contact: {
       phone: "138xxxxxxxx",
       email: "你的邮箱@gmail.com",
