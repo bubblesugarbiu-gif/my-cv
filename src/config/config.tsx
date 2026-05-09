@@ -1,10 +1,10 @@
 export const Config = {
   personalInfo: {
-    name: "你的姓名",
-    phone: "138xxxxxxxx",
-    email: "你的邮箱@gmail.com",
-    address: "广东广州",
-    age: "18岁",
+    name: "唐静",
+    phone: "15152956776",
+    email: "bubblesugarbiu@gmail.com",
+    address: "江苏扬州",
+    age: "32岁",
     job: "Web3 TA Intern 申请者",
     status: "待业"
   },
@@ -20,7 +20,7 @@ export const Config = {
   ],
 
   certificates: [
-    { name: "英语六级" },
+    { name: "英语四级" },
   ],
 
   skillIntroduction: [
@@ -37,8 +37,8 @@ export const Config = {
       endDate: "至今",
       description: [
         "主动学习区块链、DeFi 等 Web3 基础知识",
-        "关注行业招聘动态和人才需求",
-        "独立尝试搭建个人在线简历网站"
+        "关注 Web3 / Fintech 行业招聘动态和人才需求",
+        "独立搭建个人在线简历网站"
       ]
     }
   ],
@@ -52,17 +52,17 @@ export const Config = {
       projectResponsibility: [
         "从零学习并成功运行项目",
         "配置个人信息并准备用于实习投递",
-        "了解现代前端部署流程"
+        "了解现代前端部署流程（Vercel）"
       ]
     }
   ],
 
   educationExperience: [
     {
-      school: "你的学校名称",
+      school: "南京中医药大学",
       degree: "本科",
-      startDate: "20XX.09",
-      endDate: "20XX.06"
+      startDate: "2009.09",
+      endDate: "2013.06"
     }
   ]
 };
