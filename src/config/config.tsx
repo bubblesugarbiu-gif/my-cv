@@ -9,9 +9,6 @@ export const Config = {
     status: "待业"
   },
 
-  // 删除头像（留空即可）
-  // avatar: "",
-
   skills: [
     { name: "学习能力强" },
     { name: "沟通协调" },
@@ -62,11 +59,11 @@ export const Config = {
       company: "文化公司",
       position: "文章编辑 & 设计师",
       startDate: "2020.07",
-      endDate: "至今",
+      endDate: "2024.12",
       description: [
         "负责文章撰写、编辑与内容优化",
-        "擅长海报设计、文案创作及视频剪辑",
-        "熟练使用各类 AI 工具提升工作效率"
+        "从事海报设计、文案创作及视频剪辑等工作",
+        "熟练运用各类 AI 工具提升工作效率"
       ]
     },
     {
